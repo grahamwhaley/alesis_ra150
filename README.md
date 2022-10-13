@@ -130,3 +130,47 @@ out yet, but I suspect it will take a little while for the contact cleaner to re
 and do its thing on the volume potentiometers and the relay contacts. Fingers crossed to another
 20 years of service I say...
 
+## An update
+
+Twelves months later I started to experience oddities in my audio chain again. This time channels
+would cut in and out or fade away over time. I first thought it was maybe dirty pots in my mixer,
+but after some time I realised it could be the amp again. One clue was that turning the volume up
+would bring channels back to life - a classic sign of a dry or dirty joint.
+The big clue was when I physically tapped on the front of the amplifier and it would change which
+channel was playing and how well... hmm. Now, what do we think could cause a dirty or dry intermittent
+contact in the amplifier? Well, there are quite a lot of push fit connectors in there, but the item
+that immediately jumps out would be that damned relay again!
+
+After a few months of putting up with twiddling the volume and hitting the amp I finally found a slot
+to take the amp apart again and have a look.
+
+Long story short, I cleaned the relay contacts again and now all is hunky dory and stable. We'll see
+how long that lasts. It might last longer this time, as I took a slightly different, but similar,
+route as last time.
+
+Last time I cleaned the contacts I used
+[Servisol Super 10](http://www.crcind.com/csp/web/ProdDisp.csp?lng=3&idx=2891050&country=GB&product=SOL%20SUPER%2010&brand=SERVISOL)
+switch cleaner - probably the most common switch cleaner in the U.K. I've been using this since literally
+I was a boy. I have a feeling though that maybe Servisol is more for sliding switch contacts (even
+though the literature says it can be used on relays). This time I thought I'd seek out some alternative
+cleaner. They are surprisingly hard to find. What I wanted to try was some
+[DeoxIT](https://caig.com/deoxit-d-series/), which has a good reputation, but it's not that easy to find
+in the U.K., and when you do, it sure ain't cheap!
+
+After some more searching I ended up getting some
+[Electrolube EML](https://electrolube.com/product/eml-contact-cleaner-lubricant/) Contact Cleaner
+Lubricant, and the matching [Electrolube CCS](https://electrolube.com/product/ccs-contact-cleaning-strips/)
+Contact Cleaning Strips, which are as far as I can tell mildly abrasive strips impregnated with a
+speciality Contact Lubricant. First I used some EML on some normal paper to give the contacts an initial
+clean (and a little bit of grime came off), and then I used the CCS strip to give them a better clean
+and a tiny coating of lubricant - and a lot more 'dirt' came off! I say dirt, as it might be that the
+strips are abrasive enough to remove tiny bits of the contacts themselves (that is, burnish and polish
+them). Anyhow, this is what the strips are designed for, so I have little concern that they are eroding
+the contacts.
+
+And the results - so far so good. Crystal clear again, and not tapping or adjusting of the volume so
+far makes any difference to the sound.
+
+Fingers crossed I won't have to undertake this procedure in another year. That would be annoying, and
+in the end I'd be looking to see if I needed to replace the relay with a better quality one.
+on the front of the amp the channels
